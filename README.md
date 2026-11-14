@@ -5,9 +5,8 @@ Cryptography and Number Theory Lab Assignments using Python and Google Colab.
 **Student Name:** Zannatul Fiha  
 **Student ID:** It-23021  
 **Course:** Cryptography and Cyber Law 
-
 **Programming Language:** Python  
-**Platform:** Google Colabn
+**Platform:** Google Colab
 
 ---
 
